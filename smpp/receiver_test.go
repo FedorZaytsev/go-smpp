@@ -8,8 +8,8 @@ import (
 	"testing"
 	"time"
 
-	"gitlab.services.mts.ru/web-push-service/go-smpp/smpp/pdu"
-	"gitlab.services.mts.ru/web-push-service/go-smpp/smpp/smpptest"
+	"github.com/FedorZaytsev/go-smpp/smpp/pdu"
+	"github.com/FedorZaytsev/go-smpp/smpp/smpptest"
 )
 
 func TestReceiver(t *testing.T) {

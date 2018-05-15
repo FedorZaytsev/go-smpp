@@ -10,7 +10,7 @@ import (
 	"io"
 	"net"
 
-	"gitlab.services.mts.ru/web-push-service/go-smpp/smpp/pdu"
+	"github.com/FedorZaytsev/go-smpp/smpp/pdu"
 )
 
 // Conn implements a server side connection.

@@ -19,8 +19,8 @@ import (
 
 	"github.com/codegangsta/cli"
 
-	"gitlab.services.mts.ru/web-push-service/go-smpp/smpp"
-	"gitlab.services.mts.ru/web-push-service/go-smpp/smpp/pdu/pdutext"
+	"github.com/FedorZaytsev/go-smpp/smpp"
+	"github.com/FedorZaytsev/go-smpp/smpp/pdu/pdutext"
 )
 
 // Version of smppcli.

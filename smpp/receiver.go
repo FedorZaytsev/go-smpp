@@ -10,8 +10,8 @@ import (
 	"sync"
 	"time"
 
-	"gitlab.services.mts.ru/web-push-service/go-smpp/smpp/pdu"
-	"gitlab.services.mts.ru/web-push-service/go-smpp/smpp/pdu/pdufield"
+	"github.com/FedorZaytsev/go-smpp/smpp/pdu"
+	"github.com/FedorZaytsev/go-smpp/smpp/pdu/pdufield"
 )
 
 // Receiver implements an SMPP client receiver.

@@ -7,7 +7,7 @@ package pdu
 import (
 	"io"
 
-	"gitlab.services.mts.ru/web-push-service/go-smpp/smpp/pdu/pdufield"
+	"github.com/FedorZaytsev/go-smpp/smpp/pdu/pdufield"
 )
 
 // MaxSize is the maximum size allowed for a PDU.

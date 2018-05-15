@@ -12,7 +12,7 @@ import (
 	"strconv"
 	"strings"
 
-	"gitlab.services.mts.ru/web-push-service/go-smpp/smpp/pdu/pdutext"
+	"github.com/FedorZaytsev/go-smpp/smpp/pdu/pdutext"
 )
 
 // Map is a collection of PDU field data indexed by name.
